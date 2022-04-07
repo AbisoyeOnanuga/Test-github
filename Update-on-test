@@ -1,0 +1,8 @@
+Update - brute forced my way around making commits and merging changes from remote Github to the local folder.
+----------------------
+Possible to merge changes made online with local file.
+succesful upload of file to Github
+merged the fetched online source with local folder using:
+git pull main Repost --allow-unrelated-histories
+This means I can now develop in Visual Studio Code and make source code upload and changes to Github.
+Granted practice is still needed in pushing and pulling updates and committing merge changes from online fetches
